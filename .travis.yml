@@ -1,0 +1,5 @@
+language: objective-C#  #1
+osx_image: windows12 #2
+.net_project: githubTestProject.csproj #3
+.net_scheme: githubTestProject #4
+.net sdk: .net 4.5 #5
