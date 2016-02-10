@@ -1,1 +1,6 @@
 C:\eSupport.DBUp\githubTestProject\githubTestProject\bin\Debug\githubTestProject.exe.config
+C:\eSupport.DBUp\githubTestProject\githubTestProject\bin\Debug\githubTestProject.exe
+C:\eSupport.DBUp\githubTestProject\githubTestProject\bin\Debug\githubTestProject.pdb
+C:\eSupport.DBUp\githubTestProject\githubTestProject\obj\Debug\githubTestProject.csprojResolveAssemblyReference.cache
+C:\eSupport.DBUp\githubTestProject\githubTestProject\obj\Debug\githubTestProject.exe
+C:\eSupport.DBUp\githubTestProject\githubTestProject\obj\Debug\githubTestProject.pdb

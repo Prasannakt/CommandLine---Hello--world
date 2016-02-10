@@ -11,6 +11,7 @@ namespace githubTestProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello-world . I m trying get a spece in GitHub");
+            Console.WriteLine("Clone and commiting back for the first time");
         }
     }
 }
